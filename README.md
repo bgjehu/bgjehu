@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there ! I am Jay👋
+![stats card](https://github-readme-stats.vercel.app/api?username=bgjehu&show_icons=true&theme=calm)
+
+![langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=bgjehu&hide=Objective-C,Swift,C%23,C%2B%2B&layout=compact&theme=calm)
 
 <!--
 **bgjehu/bgjehu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
